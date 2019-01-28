@@ -1,0 +1,10 @@
+bin\Debug\VideoCapture.dll
+bin\Debug\VideoCapture.pdb
+bin\Debug\VideoCapture.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\VideoCapture.Resources.resources
+obj\Debug\VideoCapture.vbproj.GenerateResource.Cache
+obj\Debug\VideoCapture.dll
+obj\Debug\VideoCapture.xml
+obj\Debug\VideoCapture.pdb
+obj\Debug\VideoCapture.formCapture.resources

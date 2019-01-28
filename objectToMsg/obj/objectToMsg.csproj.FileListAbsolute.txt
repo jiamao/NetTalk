@@ -1,0 +1,11 @@
+F:\公司项目\NetTalk\NetTalk\LanTalk\objectToMsg\bin\Debug\objectToMsg.dll
+F:\公司项目\NetTalk\NetTalk\LanTalk\objectToMsg\bin\Debug\objectToMsg.pdb
+F:\公司项目\NetTalk\NetTalk\LanTalk\objectToMsg\bin\Debug\MsgInfo.dll
+F:\公司项目\NetTalk\NetTalk\LanTalk\objectToMsg\bin\Debug\WinLanMsg.Util.dll
+F:\公司项目\NetTalk\NetTalk\LanTalk\objectToMsg\bin\Debug\MsgInfo.pdb
+F:\公司项目\NetTalk\NetTalk\LanTalk\objectToMsg\bin\Debug\WinLanMsg.Util.pdb
+F:\公司项目\NetTalk\NetTalk\LanTalk\objectToMsg\obj\Debug\ResolveAssemblyReference.cache
+F:\公司项目\NetTalk\NetTalk\LanTalk\objectToMsg\obj\Debug\objectToMsg.dll
+F:\公司项目\NetTalk\NetTalk\LanTalk\objectToMsg\obj\Debug\objectToMsg.pdb
+F:\公司项目\NetTalk\NetTalk\LanTalk\objectToMsg\bin\Debug\FileCompress.dll
+F:\公司项目\NetTalk\NetTalk\LanTalk\objectToMsg\bin\Debug\FileCompress.pdb

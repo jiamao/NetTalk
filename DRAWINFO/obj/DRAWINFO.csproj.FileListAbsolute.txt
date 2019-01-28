@@ -1,0 +1,14 @@
+F:\公司项目\LanTalk\DRAWINFO\bin\Debug\DRAWINFO.dll
+F:\公司项目\LanTalk\DRAWINFO\bin\Debug\DRAWINFO.pdb
+F:\公司项目\LanTalk\DRAWINFO\obj\Debug\ResolveAssemblyReference.cache
+F:\公司项目\LanTalk\DRAWINFO\obj\Debug\DRAWINFO.formDrawInfo.resources
+F:\公司项目\LanTalk\DRAWINFO\obj\Debug\DRAWINFO.csproj.GenerateResource.Cache
+F:\公司项目\LanTalk\DRAWINFO\obj\Debug\DRAWINFO.dll
+F:\公司项目\LanTalk\DRAWINFO\obj\Debug\DRAWINFO.pdb
+F:\公司项目\NetTalk\NetTalk\LanTalk\DRAWINFO\bin\Debug\DRAWINFO.dll
+F:\公司项目\NetTalk\NetTalk\LanTalk\DRAWINFO\bin\Debug\DRAWINFO.pdb
+F:\公司项目\NetTalk\NetTalk\LanTalk\DRAWINFO\obj\Debug\ResolveAssemblyReference.cache
+F:\公司项目\NetTalk\NetTalk\LanTalk\DRAWINFO\obj\Debug\DRAWINFO.formDrawInfo.resources
+F:\公司项目\NetTalk\NetTalk\LanTalk\DRAWINFO\obj\Debug\DRAWINFO.csproj.GenerateResource.Cache
+F:\公司项目\NetTalk\NetTalk\LanTalk\DRAWINFO\obj\Debug\DRAWINFO.dll
+F:\公司项目\NetTalk\NetTalk\LanTalk\DRAWINFO\obj\Debug\DRAWINFO.pdb

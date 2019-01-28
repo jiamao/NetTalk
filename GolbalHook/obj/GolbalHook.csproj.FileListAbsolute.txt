@@ -1,0 +1,5 @@
+F:\公司项目\NetTalk\NetTalk\LanTalk\GolbalHook\bin\Debug\GolbalHook.dll
+F:\公司项目\NetTalk\NetTalk\LanTalk\GolbalHook\bin\Debug\GolbalHook.pdb
+F:\公司项目\NetTalk\NetTalk\LanTalk\GolbalHook\obj\Debug\ResolveAssemblyReference.cache
+F:\公司项目\NetTalk\NetTalk\LanTalk\GolbalHook\obj\Debug\GolbalHook.dll
+F:\公司项目\NetTalk\NetTalk\LanTalk\GolbalHook\obj\Debug\GolbalHook.pdb

@@ -1,0 +1,12 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\CaptureScreen.FormFullScreen.resources
+obj\Debug\CaptureScreen.csproj.GenerateResource.Cache
+bin\Debug\CaptureScreen.dll
+bin\Debug\CaptureScreen.pdb
+obj\Debug\CaptureScreen.dll
+obj\Debug\CaptureScreen.pdb
+obj\Debug\CaptureScreen.csproj.ResolveComReference.cache
+bin\Debug\Interop.工程1.dll
+bin\Debug\AxInterop.工程1.dll
+obj\Debug\Interop.工程1.dll
+obj\Debug\AxInterop.工程1.dll

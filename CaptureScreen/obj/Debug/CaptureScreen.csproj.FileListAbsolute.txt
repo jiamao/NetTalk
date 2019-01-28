@@ -1,0 +1,7 @@
+D:\微云同步盘\273389528\项目\Csharp\NetTalk聊天源码（群主原作）\NetTalk\LanTalk\CaptureScreen\bin\Debug\CaptureScreen.dll
+D:\微云同步盘\273389528\项目\Csharp\NetTalk聊天源码（群主原作）\NetTalk\LanTalk\CaptureScreen\bin\Debug\CaptureScreen.pdb
+D:\微云同步盘\273389528\项目\Csharp\NetTalk聊天源码（群主原作）\NetTalk\LanTalk\CaptureScreen\obj\Debug\CaptureScreen.FormFullScreen.resources
+D:\微云同步盘\273389528\项目\Csharp\NetTalk聊天源码（群主原作）\NetTalk\LanTalk\CaptureScreen\obj\Debug\CaptureScreen.csproj.GenerateResource.cache
+D:\微云同步盘\273389528\项目\Csharp\NetTalk聊天源码（群主原作）\NetTalk\LanTalk\CaptureScreen\obj\Debug\CaptureScreen.csproj.CoreCompileInputs.cache
+D:\微云同步盘\273389528\项目\Csharp\NetTalk聊天源码（群主原作）\NetTalk\LanTalk\CaptureScreen\obj\Debug\CaptureScreen.dll
+D:\微云同步盘\273389528\项目\Csharp\NetTalk聊天源码（群主原作）\NetTalk\LanTalk\CaptureScreen\obj\Debug\CaptureScreen.pdb

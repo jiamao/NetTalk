@@ -1,0 +1,7 @@
+bin\Debug\ImageResources.dll
+bin\Debug\ImageResources.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ImageResources.dll
+obj\Debug\ImageResources.pdb
+obj\Debug\ImageResources.csproj.GenerateResource.Cache
+obj\Debug\ImageResources.FaceSource.resources

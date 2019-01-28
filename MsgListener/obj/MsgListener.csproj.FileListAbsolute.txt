@@ -1,0 +1,10 @@
+F:\公司项目\LanTalk\MsgListener\bin\Debug\MsgListener.dll
+F:\公司项目\LanTalk\MsgListener\bin\Debug\MsgListener.pdb
+F:\公司项目\LanTalk\MsgListener\obj\Debug\ResolveAssemblyReference.cache
+F:\公司项目\LanTalk\MsgListener\obj\Debug\MsgListener.dll
+F:\公司项目\LanTalk\MsgListener\obj\Debug\MsgListener.pdb
+F:\公司项目\NetTalk\NetTalk\LanTalk\MsgListener\bin\Debug\MsgListener.dll
+F:\公司项目\NetTalk\NetTalk\LanTalk\MsgListener\bin\Debug\MsgListener.pdb
+F:\公司项目\NetTalk\NetTalk\LanTalk\MsgListener\obj\Debug\ResolveAssemblyReference.cache
+F:\公司项目\NetTalk\NetTalk\LanTalk\MsgListener\obj\Debug\MsgListener.dll
+F:\公司项目\NetTalk\NetTalk\LanTalk\MsgListener\obj\Debug\MsgListener.pdb

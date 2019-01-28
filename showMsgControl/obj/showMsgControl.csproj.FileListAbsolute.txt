@@ -1,0 +1,16 @@
+F:\公司项目\LanTalk\showMsgControl\bin\Debug\showMsgControl.dll
+F:\公司项目\LanTalk\showMsgControl\bin\Debug\showMsgControl.pdb
+F:\公司项目\LanTalk\showMsgControl\bin\Debug\ControlRichTextBox.dll
+F:\公司项目\LanTalk\showMsgControl\bin\Debug\ControlRichTextBox.pdb
+F:\公司项目\LanTalk\showMsgControl\bin\Debug\ControlRichTextBox.xml
+F:\公司项目\LanTalk\showMsgControl\obj\Debug\ResolveAssemblyReference.cache
+F:\公司项目\LanTalk\showMsgControl\obj\Debug\showMsgControl.dll
+F:\公司项目\LanTalk\showMsgControl\obj\Debug\showMsgControl.pdb
+F:\公司项目\NetTalk\NetTalk\LanTalk\showMsgControl\bin\Debug\showMsgControl.dll
+F:\公司项目\NetTalk\NetTalk\LanTalk\showMsgControl\bin\Debug\showMsgControl.pdb
+F:\公司项目\NetTalk\NetTalk\LanTalk\showMsgControl\bin\Debug\ControlRichTextBox.dll
+F:\公司项目\NetTalk\NetTalk\LanTalk\showMsgControl\bin\Debug\ControlRichTextBox.pdb
+F:\公司项目\NetTalk\NetTalk\LanTalk\showMsgControl\bin\Debug\ControlRichTextBox.xml
+F:\公司项目\NetTalk\NetTalk\LanTalk\showMsgControl\obj\Debug\ResolveAssemblyReference.cache
+F:\公司项目\NetTalk\NetTalk\LanTalk\showMsgControl\obj\Debug\showMsgControl.dll
+F:\公司项目\NetTalk\NetTalk\LanTalk\showMsgControl\obj\Debug\showMsgControl.pdb

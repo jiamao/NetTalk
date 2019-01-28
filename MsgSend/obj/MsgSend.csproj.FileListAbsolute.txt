@@ -1,0 +1,10 @@
+F:\公司项目\LanTalk\MsgSend\bin\Debug\MsgSend.dll
+F:\公司项目\LanTalk\MsgSend\bin\Debug\MsgSend.pdb
+F:\公司项目\LanTalk\MsgSend\obj\Debug\ResolveAssemblyReference.cache
+F:\公司项目\LanTalk\MsgSend\obj\Debug\MsgSend.dll
+F:\公司项目\LanTalk\MsgSend\obj\Debug\MsgSend.pdb
+F:\公司项目\NetTalk\NetTalk\LanTalk\MsgSend\bin\Debug\MsgSend.dll
+F:\公司项目\NetTalk\NetTalk\LanTalk\MsgSend\bin\Debug\MsgSend.pdb
+F:\公司项目\NetTalk\NetTalk\LanTalk\MsgSend\obj\Debug\ResolveAssemblyReference.cache
+F:\公司项目\NetTalk\NetTalk\LanTalk\MsgSend\obj\Debug\MsgSend.dll
+F:\公司项目\NetTalk\NetTalk\LanTalk\MsgSend\obj\Debug\MsgSend.pdb

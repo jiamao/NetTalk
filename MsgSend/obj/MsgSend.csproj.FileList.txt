@@ -1,0 +1,5 @@
+bin\Debug\MsgSend.dll
+bin\Debug\MsgSend.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\MsgSend.dll
+obj\Debug\MsgSend.pdb

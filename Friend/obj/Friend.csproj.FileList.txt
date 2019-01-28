@@ -1,0 +1,7 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\Friend.dll
+bin\Debug\Friend.pdb
+obj\Debug\Friend.dll
+obj\Debug\Friend.pdb
+bin\Debug\MsgInfo.dll
+bin\Debug\MsgInfo.pdb

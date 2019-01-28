@@ -1,0 +1,9 @@
+bin\Debug\MsgPoolFactory.dll
+bin\Debug\MsgPoolFactory.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\MsgPoolFactory.dll
+obj\Debug\MsgPoolFactory.pdb
+bin\Debug\Friend.dll
+bin\Debug\Friend.pdb
+bin\Debug\MsgInfo.dll
+bin\Debug\MsgInfo.pdb

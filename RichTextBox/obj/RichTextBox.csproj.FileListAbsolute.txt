@@ -1,0 +1,10 @@
+F:\公司项目\LanTalk\RichTextBox\bin\Debug\RichTextBox.dll
+F:\公司项目\LanTalk\RichTextBox\bin\Debug\RichTextBox.pdb
+F:\公司项目\LanTalk\RichTextBox\obj\Debug\ResolveAssemblyReference.cache
+F:\公司项目\LanTalk\RichTextBox\obj\Debug\RichTextBox.dll
+F:\公司项目\LanTalk\RichTextBox\obj\Debug\RichTextBox.pdb
+F:\公司项目\NetTalk\NetTalk\LanTalk\RichTextBox\bin\Debug\RichTextBox.dll
+F:\公司项目\NetTalk\NetTalk\LanTalk\RichTextBox\bin\Debug\RichTextBox.pdb
+F:\公司项目\NetTalk\NetTalk\LanTalk\RichTextBox\obj\Debug\ResolveAssemblyReference.cache
+F:\公司项目\NetTalk\NetTalk\LanTalk\RichTextBox\obj\Debug\RichTextBox.dll
+F:\公司项目\NetTalk\NetTalk\LanTalk\RichTextBox\obj\Debug\RichTextBox.pdb

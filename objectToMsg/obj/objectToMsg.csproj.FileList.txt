@@ -1,0 +1,11 @@
+bin\Debug\MsgInfo.dll
+bin\Debug\MsgInfo.pdb
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\objectToMsg.dll
+bin\Debug\objectToMsg.pdb
+obj\Debug\objectToMsg.dll
+obj\Debug\objectToMsg.pdb
+bin\Debug\WinLanMsg.Util.dll
+bin\Debug\WinLanMsg.Util.pdb
+bin\Debug\FileCompress.dll
+bin\Debug\FileCompress.pdb

@@ -1,0 +1,10 @@
+F:\公司项目\LanTalk\waveAudio\bin\Debug\waveAudio.dll
+F:\公司项目\LanTalk\waveAudio\bin\Debug\waveAudio.pdb
+F:\公司项目\LanTalk\waveAudio\obj\Debug\ResolveAssemblyReference.cache
+F:\公司项目\LanTalk\waveAudio\obj\Debug\waveAudio.dll
+F:\公司项目\LanTalk\waveAudio\obj\Debug\waveAudio.pdb
+F:\公司项目\NetTalk\NetTalk\LanTalk\waveAudio\bin\Debug\waveAudio.dll
+F:\公司项目\NetTalk\NetTalk\LanTalk\waveAudio\bin\Debug\waveAudio.pdb
+F:\公司项目\NetTalk\NetTalk\LanTalk\waveAudio\obj\Debug\ResolveAssemblyReference.cache
+F:\公司项目\NetTalk\NetTalk\LanTalk\waveAudio\obj\Debug\waveAudio.dll
+F:\公司项目\NetTalk\NetTalk\LanTalk\waveAudio\obj\Debug\waveAudio.pdb

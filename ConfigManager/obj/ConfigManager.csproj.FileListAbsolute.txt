@@ -1,0 +1,10 @@
+F:\公司项目\LanTalk\ConfigManager\bin\Debug\ConfigManager.dll
+F:\公司项目\LanTalk\ConfigManager\bin\Debug\ConfigManager.pdb
+F:\公司项目\LanTalk\ConfigManager\obj\Debug\ResolveAssemblyReference.cache
+F:\公司项目\LanTalk\ConfigManager\obj\Debug\ConfigManager.dll
+F:\公司项目\LanTalk\ConfigManager\obj\Debug\ConfigManager.pdb
+F:\公司项目\NetTalk\NetTalk\LanTalk\ConfigManager\bin\Debug\ConfigManager.dll
+F:\公司项目\NetTalk\NetTalk\LanTalk\ConfigManager\bin\Debug\ConfigManager.pdb
+F:\公司项目\NetTalk\NetTalk\LanTalk\ConfigManager\obj\Debug\ResolveAssemblyReference.cache
+F:\公司项目\NetTalk\NetTalk\LanTalk\ConfigManager\obj\Debug\ConfigManager.dll
+F:\公司项目\NetTalk\NetTalk\LanTalk\ConfigManager\obj\Debug\ConfigManager.pdb

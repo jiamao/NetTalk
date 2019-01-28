@@ -1,0 +1,9 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ControlRichTextBox.Resources.resources
+obj\Debug\ControlRichTextBox.vbproj.GenerateResource.Cache
+bin\Debug\ControlRichTextBox.dll
+bin\Debug\ControlRichTextBox.pdb
+bin\Debug\ControlRichTextBox.xml
+obj\Debug\ControlRichTextBox.dll
+obj\Debug\ControlRichTextBox.xml
+obj\Debug\ControlRichTextBox.pdb

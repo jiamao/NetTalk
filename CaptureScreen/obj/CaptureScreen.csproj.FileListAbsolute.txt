@@ -1,0 +1,16 @@
+F:\公司项目\LanTalk\CaptureScreen\bin\Debug\CaptureScreen.dll
+F:\公司项目\LanTalk\CaptureScreen\bin\Debug\CaptureScreen.pdb
+F:\公司项目\LanTalk\CaptureScreen\obj\Debug\ResolveAssemblyReference.cache
+F:\公司项目\LanTalk\CaptureScreen\obj\Debug\CaptureScreen.csproj.ResolveComReference.cache
+F:\公司项目\LanTalk\CaptureScreen\obj\Debug\CaptureScreen.FormFullScreen.resources
+F:\公司项目\LanTalk\CaptureScreen\obj\Debug\CaptureScreen.csproj.GenerateResource.Cache
+F:\公司项目\LanTalk\CaptureScreen\obj\Debug\CaptureScreen.dll
+F:\公司项目\LanTalk\CaptureScreen\obj\Debug\CaptureScreen.pdb
+F:\公司项目\NetTalk\NetTalk\LanTalk\CaptureScreen\bin\Debug\CaptureScreen.dll
+F:\公司项目\NetTalk\NetTalk\LanTalk\CaptureScreen\bin\Debug\CaptureScreen.pdb
+F:\公司项目\NetTalk\NetTalk\LanTalk\CaptureScreen\obj\Debug\ResolveAssemblyReference.cache
+F:\公司项目\NetTalk\NetTalk\LanTalk\CaptureScreen\obj\Debug\CaptureScreen.csproj.ResolveComReference.cache
+F:\公司项目\NetTalk\NetTalk\LanTalk\CaptureScreen\obj\Debug\CaptureScreen.FormFullScreen.resources
+F:\公司项目\NetTalk\NetTalk\LanTalk\CaptureScreen\obj\Debug\CaptureScreen.csproj.GenerateResource.Cache
+F:\公司项目\NetTalk\NetTalk\LanTalk\CaptureScreen\obj\Debug\CaptureScreen.dll
+F:\公司项目\NetTalk\NetTalk\LanTalk\CaptureScreen\obj\Debug\CaptureScreen.pdb

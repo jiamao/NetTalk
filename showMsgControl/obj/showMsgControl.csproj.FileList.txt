@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\showMsgControl.dll
+bin\Debug\showMsgControl.pdb
+obj\Debug\showMsgControl.dll
+obj\Debug\showMsgControl.pdb
+bin\Debug\ControlRichTextBox.dll
+bin\Debug\ControlRichTextBox.pdb
+bin\Debug\ControlRichTextBox.xml

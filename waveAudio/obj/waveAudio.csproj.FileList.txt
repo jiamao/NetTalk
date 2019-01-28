@@ -1,0 +1,5 @@
+bin\Debug\waveAudio.dll
+bin\Debug\waveAudio.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\waveAudio.dll
+obj\Debug\waveAudio.pdb

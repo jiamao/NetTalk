@@ -1,0 +1,10 @@
+F:\公司项目\LanTalk\FileCompress\bin\Debug\FileCompress.dll
+F:\公司项目\LanTalk\FileCompress\bin\Debug\FileCompress.pdb
+F:\公司项目\LanTalk\FileCompress\obj\Debug\ResolveAssemblyReference.cache
+F:\公司项目\LanTalk\FileCompress\obj\Debug\FileCompress.dll
+F:\公司项目\LanTalk\FileCompress\obj\Debug\FileCompress.pdb
+F:\公司项目\NetTalk\NetTalk\LanTalk\FileCompress\bin\Debug\FileCompress.dll
+F:\公司项目\NetTalk\NetTalk\LanTalk\FileCompress\bin\Debug\FileCompress.pdb
+F:\公司项目\NetTalk\NetTalk\LanTalk\FileCompress\obj\Debug\ResolveAssemblyReference.cache
+F:\公司项目\NetTalk\NetTalk\LanTalk\FileCompress\obj\Debug\FileCompress.dll
+F:\公司项目\NetTalk\NetTalk\LanTalk\FileCompress\obj\Debug\FileCompress.pdb

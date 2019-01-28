@@ -1,0 +1,7 @@
+F:\公司项目\NetTalk\NetTalk\LanTalk\ImageResources\bin\Debug\ImageResources.dll
+F:\公司项目\NetTalk\NetTalk\LanTalk\ImageResources\bin\Debug\ImageResources.pdb
+F:\公司项目\NetTalk\NetTalk\LanTalk\ImageResources\obj\Debug\ResolveAssemblyReference.cache
+F:\公司项目\NetTalk\NetTalk\LanTalk\ImageResources\obj\Debug\ImageResources.FaceSource.resources
+F:\公司项目\NetTalk\NetTalk\LanTalk\ImageResources\obj\Debug\ImageResources.csproj.GenerateResource.Cache
+F:\公司项目\NetTalk\NetTalk\LanTalk\ImageResources\obj\Debug\ImageResources.dll
+F:\公司项目\NetTalk\NetTalk\LanTalk\ImageResources\obj\Debug\ImageResources.pdb

@@ -1,0 +1,10 @@
+F:\公司项目\LanTalk\WinLanMsg.Util\bin\Debug\MsgInfo.dll
+F:\公司项目\LanTalk\WinLanMsg.Util\bin\Debug\MsgInfo.pdb
+F:\公司项目\LanTalk\WinLanMsg.Util\obj\Debug\ResolveAssemblyReference.cache
+F:\公司项目\LanTalk\WinLanMsg.Util\obj\Debug\MsgInfo.dll
+F:\公司项目\LanTalk\WinLanMsg.Util\obj\Debug\MsgInfo.pdb
+F:\公司项目\NetTalk\NetTalk\LanTalk\WinLanMsg.Util\bin\Debug\MsgInfo.dll
+F:\公司项目\NetTalk\NetTalk\LanTalk\WinLanMsg.Util\bin\Debug\MsgInfo.pdb
+F:\公司项目\NetTalk\NetTalk\LanTalk\WinLanMsg.Util\obj\Debug\ResolveAssemblyReference.cache
+F:\公司项目\NetTalk\NetTalk\LanTalk\WinLanMsg.Util\obj\Debug\MsgInfo.dll
+F:\公司项目\NetTalk\NetTalk\LanTalk\WinLanMsg.Util\obj\Debug\MsgInfo.pdb

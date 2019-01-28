@@ -1,0 +1,7 @@
+bin\Debug\DRAWINFO.dll
+bin\Debug\DRAWINFO.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DRAWINFO.formDrawInfo.resources
+obj\Debug\DRAWINFO.csproj.GenerateResource.Cache
+obj\Debug\DRAWINFO.dll
+obj\Debug\DRAWINFO.pdb

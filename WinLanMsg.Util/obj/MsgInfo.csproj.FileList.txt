@@ -1,0 +1,5 @@
+bin\Debug\MsgInfo.dll
+bin\Debug\MsgInfo.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\MsgInfo.dll
+obj\Debug\MsgInfo.pdb
