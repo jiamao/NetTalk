@@ -1,0 +1,5 @@
+F:\code\github\NetTalk\ConfigManager\bin\Debug\ConfigManager.dll
+F:\code\github\NetTalk\ConfigManager\bin\Debug\ConfigManager.pdb
+F:\code\github\NetTalk\ConfigManager\obj\Debug\ConfigManager.csproj.CoreCompileInputs.cache
+F:\code\github\NetTalk\ConfigManager\obj\Debug\ConfigManager.dll
+F:\code\github\NetTalk\ConfigManager\obj\Debug\ConfigManager.pdb

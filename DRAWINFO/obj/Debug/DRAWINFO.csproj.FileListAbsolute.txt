@@ -1,0 +1,8 @@
+F:\code\github\NetTalk\DRAWINFO\bin\Debug\DRAWINFO.dll
+F:\code\github\NetTalk\DRAWINFO\bin\Debug\DRAWINFO.pdb
+F:\code\github\NetTalk\DRAWINFO\obj\Debug\DRAWINFO.formDrawInfo.resources
+F:\code\github\NetTalk\DRAWINFO\obj\Debug\DRAWINFO.csproj.GenerateResource.cache
+F:\code\github\NetTalk\DRAWINFO\obj\Debug\DRAWINFO.csproj.CoreCompileInputs.cache
+F:\code\github\NetTalk\DRAWINFO\obj\Debug\DRAWINFO.dll
+F:\code\github\NetTalk\DRAWINFO\obj\Debug\DRAWINFO.pdb
+F:\code\github\NetTalk\DRAWINFO\obj\Debug\DRAWINFO.csproj.AssemblyReference.cache

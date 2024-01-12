@@ -1,0 +1,14 @@
+/build/node_modules
+/build/cache
+/Makefile
+node_modules
+build/package-lock.json
+/package-lock.json
+bin/Debug
+.suo
+.pdb
+.cache
+obj/Debug
+CaptureScreen/bin/Debug/
+Backup/
+UpgradeLog.htm

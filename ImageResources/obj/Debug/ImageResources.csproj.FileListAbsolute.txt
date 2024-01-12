@@ -1,0 +1,7 @@
+F:\code\github\NetTalk\ImageResources\bin\Debug\ImageResources.dll
+F:\code\github\NetTalk\ImageResources\bin\Debug\ImageResources.pdb
+F:\code\github\NetTalk\ImageResources\obj\Debug\ImageResources.FaceSource.resources
+F:\code\github\NetTalk\ImageResources\obj\Debug\ImageResources.csproj.GenerateResource.cache
+F:\code\github\NetTalk\ImageResources\obj\Debug\ImageResources.csproj.CoreCompileInputs.cache
+F:\code\github\NetTalk\ImageResources\obj\Debug\ImageResources.dll
+F:\code\github\NetTalk\ImageResources\obj\Debug\ImageResources.pdb

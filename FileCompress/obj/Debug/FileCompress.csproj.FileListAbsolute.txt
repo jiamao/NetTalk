@@ -1,0 +1,6 @@
+F:\code\github\NetTalk\FileCompress\bin\Debug\FileCompress.dll
+F:\code\github\NetTalk\FileCompress\bin\Debug\FileCompress.pdb
+F:\code\github\NetTalk\FileCompress\obj\Debug\FileCompress.csproj.AssemblyReference.cache
+F:\code\github\NetTalk\FileCompress\obj\Debug\FileCompress.csproj.CoreCompileInputs.cache
+F:\code\github\NetTalk\FileCompress\obj\Debug\FileCompress.dll
+F:\code\github\NetTalk\FileCompress\obj\Debug\FileCompress.pdb

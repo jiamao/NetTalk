@@ -5,3 +5,10 @@ D:\微云同步盘\273389528\项目\Csharp\NetTalk聊天源码（群主原作）
 D:\微云同步盘\273389528\项目\Csharp\NetTalk聊天源码（群主原作）\NetTalk\LanTalk\CaptureScreen\obj\Debug\CaptureScreen.csproj.CoreCompileInputs.cache
 D:\微云同步盘\273389528\项目\Csharp\NetTalk聊天源码（群主原作）\NetTalk\LanTalk\CaptureScreen\obj\Debug\CaptureScreen.dll
 D:\微云同步盘\273389528\项目\Csharp\NetTalk聊天源码（群主原作）\NetTalk\LanTalk\CaptureScreen\obj\Debug\CaptureScreen.pdb
+F:\code\github\NetTalk\CaptureScreen\bin\Debug\CaptureScreen.dll
+F:\code\github\NetTalk\CaptureScreen\bin\Debug\CaptureScreen.pdb
+F:\code\github\NetTalk\CaptureScreen\obj\Debug\CaptureScreen.FormFullScreen.resources
+F:\code\github\NetTalk\CaptureScreen\obj\Debug\CaptureScreen.csproj.GenerateResource.cache
+F:\code\github\NetTalk\CaptureScreen\obj\Debug\CaptureScreen.csproj.CoreCompileInputs.cache
+F:\code\github\NetTalk\CaptureScreen\obj\Debug\CaptureScreen.dll
+F:\code\github\NetTalk\CaptureScreen\obj\Debug\CaptureScreen.pdb

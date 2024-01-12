@@ -1,0 +1,5 @@
+F:\code\github\NetTalk\MsgSend\bin\Debug\MsgSend.dll
+F:\code\github\NetTalk\MsgSend\bin\Debug\MsgSend.pdb
+F:\code\github\NetTalk\MsgSend\obj\Debug\MsgSend.csproj.CoreCompileInputs.cache
+F:\code\github\NetTalk\MsgSend\obj\Debug\MsgSend.dll
+F:\code\github\NetTalk\MsgSend\obj\Debug\MsgSend.pdb

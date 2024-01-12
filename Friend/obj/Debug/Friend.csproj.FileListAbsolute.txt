@@ -1,0 +1,8 @@
+F:\code\github\NetTalk\Friend\bin\Debug\Friend.dll
+F:\code\github\NetTalk\Friend\bin\Debug\Friend.pdb
+F:\code\github\NetTalk\Friend\bin\Debug\MsgInfo.dll
+F:\code\github\NetTalk\Friend\bin\Debug\MsgInfo.pdb
+F:\code\github\NetTalk\Friend\obj\Debug\Friend.csproj.CoreCompileInputs.cache
+F:\code\github\NetTalk\Friend\obj\Debug\Friend.csproj.CopyComplete
+F:\code\github\NetTalk\Friend\obj\Debug\Friend.dll
+F:\code\github\NetTalk\Friend\obj\Debug\Friend.pdb

@@ -4,3 +4,8 @@ D:\微云同步盘\273389528\项目\Csharp\NetTalk聊天源码（群主原作）
 D:\微云同步盘\273389528\项目\Csharp\NetTalk聊天源码（群主原作）\NetTalk\LanTalk\RichTextBox\obj\Debug\RichTextBox.csproj.CoreCompileInputs.cache
 D:\微云同步盘\273389528\项目\Csharp\NetTalk聊天源码（群主原作）\NetTalk\LanTalk\RichTextBox\obj\Debug\RichTextBox.dll
 D:\微云同步盘\273389528\项目\Csharp\NetTalk聊天源码（群主原作）\NetTalk\LanTalk\RichTextBox\obj\Debug\RichTextBox.pdb
+F:\code\github\NetTalk\RichTextBox\bin\Debug\RichTextBox.dll
+F:\code\github\NetTalk\RichTextBox\bin\Debug\RichTextBox.pdb
+F:\code\github\NetTalk\RichTextBox\obj\Debug\RichTextBox.csproj.CoreCompileInputs.cache
+F:\code\github\NetTalk\RichTextBox\obj\Debug\RichTextBox.dll
+F:\code\github\NetTalk\RichTextBox\obj\Debug\RichTextBox.pdb

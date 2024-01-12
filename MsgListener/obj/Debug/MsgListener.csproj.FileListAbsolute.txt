@@ -1,0 +1,6 @@
+F:\code\github\NetTalk\MsgListener\bin\Debug\MsgListener.dll
+F:\code\github\NetTalk\MsgListener\bin\Debug\MsgListener.pdb
+F:\code\github\NetTalk\MsgListener\obj\Debug\MsgListener.csproj.AssemblyReference.cache
+F:\code\github\NetTalk\MsgListener\obj\Debug\MsgListener.csproj.CoreCompileInputs.cache
+F:\code\github\NetTalk\MsgListener\obj\Debug\MsgListener.dll
+F:\code\github\NetTalk\MsgListener\obj\Debug\MsgListener.pdb

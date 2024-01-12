@@ -1,0 +1,5 @@
+F:\code\github\NetTalk\WinLanMsg.Util\bin\Debug\MsgInfo.dll
+F:\code\github\NetTalk\WinLanMsg.Util\bin\Debug\MsgInfo.pdb
+F:\code\github\NetTalk\WinLanMsg.Util\obj\Debug\MsgInfo.csproj.CoreCompileInputs.cache
+F:\code\github\NetTalk\WinLanMsg.Util\obj\Debug\MsgInfo.dll
+F:\code\github\NetTalk\WinLanMsg.Util\obj\Debug\MsgInfo.pdb

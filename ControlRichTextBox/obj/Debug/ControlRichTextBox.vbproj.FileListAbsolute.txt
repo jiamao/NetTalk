@@ -1,0 +1,9 @@
+F:\code\github\NetTalk\ControlRichTextBox\bin\Debug\ControlRichTextBox.dll
+F:\code\github\NetTalk\ControlRichTextBox\bin\Debug\ControlRichTextBox.pdb
+F:\code\github\NetTalk\ControlRichTextBox\bin\Debug\ControlRichTextBox.xml
+F:\code\github\NetTalk\ControlRichTextBox\obj\Debug\ControlRichTextBox.Resources.resources
+F:\code\github\NetTalk\ControlRichTextBox\obj\Debug\ControlRichTextBox.vbproj.GenerateResource.cache
+F:\code\github\NetTalk\ControlRichTextBox\obj\Debug\ControlRichTextBox.vbproj.CoreCompileInputs.cache
+F:\code\github\NetTalk\ControlRichTextBox\obj\Debug\ControlRichTextBox.dll
+F:\code\github\NetTalk\ControlRichTextBox\obj\Debug\ControlRichTextBox.xml
+F:\code\github\NetTalk\ControlRichTextBox\obj\Debug\ControlRichTextBox.pdb

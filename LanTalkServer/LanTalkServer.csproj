@@ -54,6 +54,9 @@
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\ConfigManager\bin\Debug\ConfigManager.dll</HintPath>
     </Reference>
+    <Reference Include="DevComponents.DotNetBar">
+      <HintPath>..\lib\DevComponents.DotNetBar.dll</HintPath>
+    </Reference>
     <Reference Include="FileCompress, Version=1.0.0.1, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\FileCompress\bin\Debug\FileCompress.dll</HintPath>

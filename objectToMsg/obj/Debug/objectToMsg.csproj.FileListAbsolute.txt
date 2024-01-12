@@ -1,0 +1,13 @@
+F:\code\github\NetTalk\objectToMsg\bin\Debug\objectToMsg.dll
+F:\code\github\NetTalk\objectToMsg\bin\Debug\objectToMsg.pdb
+F:\code\github\NetTalk\objectToMsg\bin\Debug\FileCompress.dll
+F:\code\github\NetTalk\objectToMsg\bin\Debug\MsgInfo.dll
+F:\code\github\NetTalk\objectToMsg\bin\Debug\WinLanMsg.Util.dll
+F:\code\github\NetTalk\objectToMsg\bin\Debug\FileCompress.pdb
+F:\code\github\NetTalk\objectToMsg\bin\Debug\MsgInfo.pdb
+F:\code\github\NetTalk\objectToMsg\bin\Debug\WinLanMsg.Util.pdb
+F:\code\github\NetTalk\objectToMsg\obj\Debug\objectToMsg.csproj.AssemblyReference.cache
+F:\code\github\NetTalk\objectToMsg\obj\Debug\objectToMsg.csproj.CoreCompileInputs.cache
+F:\code\github\NetTalk\objectToMsg\obj\Debug\objectToMsg.csproj.CopyComplete
+F:\code\github\NetTalk\objectToMsg\obj\Debug\objectToMsg.dll
+F:\code\github\NetTalk\objectToMsg\obj\Debug\objectToMsg.pdb

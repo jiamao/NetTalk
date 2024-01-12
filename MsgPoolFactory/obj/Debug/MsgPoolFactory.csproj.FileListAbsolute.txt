@@ -1,0 +1,11 @@
+F:\code\github\NetTalk\MsgPoolFactory\bin\Debug\MsgPoolFactory.dll
+F:\code\github\NetTalk\MsgPoolFactory\bin\Debug\MsgPoolFactory.pdb
+F:\code\github\NetTalk\MsgPoolFactory\bin\Debug\Friend.dll
+F:\code\github\NetTalk\MsgPoolFactory\bin\Debug\MsgInfo.dll
+F:\code\github\NetTalk\MsgPoolFactory\bin\Debug\Friend.pdb
+F:\code\github\NetTalk\MsgPoolFactory\bin\Debug\MsgInfo.pdb
+F:\code\github\NetTalk\MsgPoolFactory\obj\Debug\MsgPoolFactory.csproj.AssemblyReference.cache
+F:\code\github\NetTalk\MsgPoolFactory\obj\Debug\MsgPoolFactory.csproj.CoreCompileInputs.cache
+F:\code\github\NetTalk\MsgPoolFactory\obj\Debug\MsgPoolFactory.csproj.CopyComplete
+F:\code\github\NetTalk\MsgPoolFactory\obj\Debug\MsgPoolFactory.dll
+F:\code\github\NetTalk\MsgPoolFactory\obj\Debug\MsgPoolFactory.pdb

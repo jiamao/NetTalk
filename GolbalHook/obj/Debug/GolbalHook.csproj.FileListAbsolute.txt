@@ -1,0 +1,5 @@
+F:\code\github\NetTalk\GolbalHook\bin\Debug\GolbalHook.dll
+F:\code\github\NetTalk\GolbalHook\bin\Debug\GolbalHook.pdb
+F:\code\github\NetTalk\GolbalHook\obj\Debug\GolbalHook.csproj.CoreCompileInputs.cache
+F:\code\github\NetTalk\GolbalHook\obj\Debug\GolbalHook.dll
+F:\code\github\NetTalk\GolbalHook\obj\Debug\GolbalHook.pdb

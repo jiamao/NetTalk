@@ -1,0 +1,10 @@
+F:\code\github\NetTalk\VideoCapture\bin\Debug\VideoCapture.dll
+F:\code\github\NetTalk\VideoCapture\bin\Debug\VideoCapture.pdb
+F:\code\github\NetTalk\VideoCapture\bin\Debug\VideoCapture.xml
+F:\code\github\NetTalk\VideoCapture\obj\Debug\VideoCapture.formCapture.resources
+F:\code\github\NetTalk\VideoCapture\obj\Debug\VideoCapture.Resources.resources
+F:\code\github\NetTalk\VideoCapture\obj\Debug\VideoCapture.vbproj.GenerateResource.cache
+F:\code\github\NetTalk\VideoCapture\obj\Debug\VideoCapture.vbproj.CoreCompileInputs.cache
+F:\code\github\NetTalk\VideoCapture\obj\Debug\VideoCapture.dll
+F:\code\github\NetTalk\VideoCapture\obj\Debug\VideoCapture.xml
+F:\code\github\NetTalk\VideoCapture\obj\Debug\VideoCapture.pdb

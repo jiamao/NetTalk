@@ -1,0 +1,5 @@
+F:\code\github\NetTalk\waveAudio\bin\Debug\waveAudio.dll
+F:\code\github\NetTalk\waveAudio\bin\Debug\waveAudio.pdb
+F:\code\github\NetTalk\waveAudio\obj\Debug\waveAudio.csproj.CoreCompileInputs.cache
+F:\code\github\NetTalk\waveAudio\obj\Debug\waveAudio.dll
+F:\code\github\NetTalk\waveAudio\obj\Debug\waveAudio.pdb

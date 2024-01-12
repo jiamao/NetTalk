@@ -1,0 +1,10 @@
+F:\code\github\NetTalk\showMsgControl\bin\Debug\showMsgControl.dll
+F:\code\github\NetTalk\showMsgControl\bin\Debug\showMsgControl.pdb
+F:\code\github\NetTalk\showMsgControl\bin\Debug\ControlRichTextBox.dll
+F:\code\github\NetTalk\showMsgControl\bin\Debug\ControlRichTextBox.pdb
+F:\code\github\NetTalk\showMsgControl\obj\Debug\showMsgControl.csproj.AssemblyReference.cache
+F:\code\github\NetTalk\showMsgControl\obj\Debug\showMsgControl.csproj.CoreCompileInputs.cache
+F:\code\github\NetTalk\showMsgControl\obj\Debug\showMsgControl.csproj.CopyComplete
+F:\code\github\NetTalk\showMsgControl\obj\Debug\showMsgControl.dll
+F:\code\github\NetTalk\showMsgControl\obj\Debug\showMsgControl.pdb
+F:\code\github\NetTalk\showMsgControl\bin\Debug\ControlRichTextBox.xml
